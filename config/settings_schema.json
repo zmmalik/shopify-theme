@@ -1,15 +1,20 @@
 [
   {
-    "name": "my-theme",
-    "author": "Zeeshan Malik",
-    "version": "1.0.0",
+    "name": "theme-info",
+    "theme_name": "my-theme",
+    "theme_author": "Zeeshan Malik",
+    "theme_version": "1.0.0",
+    "theme_support_email": "malikzee979@gmail.com",
+    "theme_documentation_url": "http://someurl.com"
+  },
+  {
+    "name": "products",
     "settings": [
       {
-        "type": "text",
-        "label": "Products Content",
         "id": "productsId",
-        "default": "some content"
+        "type": "text",
+        "content": "some content"
       }
     ]
-  }  
+  }
 ]
