@@ -1,0 +1,19 @@
+[
+  {
+    "name": "theme-info",
+    "theme_name": "my-theme",
+    "theme_author": "Zeeshan Malik",
+    "theme_version": "1.0.0",
+    "theme_support_email": "malikzee979@gmail.com",
+    "theme_documentation_url": "http://someurl.com"
+  },
+  {
+    "name": "products",
+    "settings": [
+      {
+        "type": "text",
+        "content": "some content"
+      }
+    ]
+  }
+]

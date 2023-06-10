@@ -1,0 +1,25 @@
+<div>
+  {{ section.settings.header }}
+  {{ section.settings.name }}
+</div>
+{% schema %}
+  {
+    "name": "header",
+    "settings": [
+      {
+        "type": "text",
+        "id": "header",
+        "label": "header"
+      }, {
+        "type": "text",
+        "id": "name",
+        "label": "name"
+      }
+    ],
+    "presets": [
+      {
+        "name": "header"
+      }
+    ]
+  }
+{% endschema %}
