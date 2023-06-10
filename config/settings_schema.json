@@ -13,7 +13,7 @@
       {
         "id": "productsId",
         "type": "text",
-        "content": "some content"
+        "label": "product"
       }
     ]
   }
