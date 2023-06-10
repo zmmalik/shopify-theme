@@ -1,6 +1,6 @@
 {% comment %}theme-check-disable UndefinedObject{% endcomment %}
 {%- assign pick_up_availabilities = product_variant.store_availabilities | where: 'pick_up_enabled', true -%}
-
+{{ pick_up_availabilities.size }}
 {%- if pick_up_availabilities.size > 0 -%}
   <pickup-availability-preview class="pickup-availability-preview">
     {%- liquid
