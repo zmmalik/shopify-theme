@@ -1,7 +1,7 @@
 [
   {
-    "name": "theme-info",
-    "theme_name": "my-theme",
+    "name": "theme_info",
+    "theme_name": "My Theme",
     "theme_author": "Zeeshan Malik",
     "theme_version": "1.0.0",
     "theme_support_email": "malikzee979@gmail.com",
