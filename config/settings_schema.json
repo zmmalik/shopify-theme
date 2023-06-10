@@ -11,6 +11,7 @@
     "name": "products",
     "settings": [
       {
+        "id": "productsId",
         "type": "text",
         "content": "some content"
       }
