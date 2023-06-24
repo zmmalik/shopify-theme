@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@shopify/app": "^3.46.3",
     "@shopify/cli": "^3.46.5",
     "@shopify/theme": "^3.46.5",
     "themekit": "^2.1.0"
