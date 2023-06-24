@@ -1,0 +1,32 @@
+name: My Theme
+password: Jijedraj@1
+store:
+  name: https://malik-practice-store.myshopify.com
+  development:
+    password: Jijedraj@1
+  staging:
+    password: Jijedraj@1
+  production:
+    password: Jijedraj@1
+ignore_files:
+  - "package.json"
+  - "package-lock.json"
+  - "config/settings_data.json"
+  - "config/settings_schema.json"
+  - "Gemfile*"
+  - "node_modules/**"
+  - "scripts/**"
+  - "src/**"
+  - "test/**"
+  - "tmp/**"
+  - "*.md"
+  - "*.png"
+  - "*.jpg"
+  - "*.jpeg"
+  - "*.gif"
+  - "*.svg"
+  - "*.liquid"
+  - "*.json"
+  - "*.yml"
+  - "*.css"
+  - "*.js"
