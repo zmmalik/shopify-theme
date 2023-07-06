@@ -17,6 +17,11 @@
         "announcement-bar-0"
       ],
       "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5
       }
     },
     "header": {
@@ -28,6 +33,7 @@
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "background-1",
+        "menu_color_scheme": "",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
@@ -35,10 +41,33 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "1493a3b1-b51c-4113-b3ff-c6df920b5bb8": {
+      "type": "announcement-bar",
+      "blocks": {
+        "sections--19566312227098__1493a3b1-b51c-4113-b3ff-c6df920b5bb8-16886524447f945861-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our storekljl",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--19566312227098__1493a3b1-b51c-4113-b3ff-c6df920b5bb8-16886524447f945861-0"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "1493a3b1-b51c-4113-b3ff-c6df920b5bb8"
   ]
 }
